@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+h2{
+    /* font-family: 'Playfair Display', serif; */
+    color: lightgray;
+    font-size: 60px;
+}
+
+.item {
+margin: 20px;
+display: flex;
+flex-direction: row;
+align-items: baseline;
+justify-content: center;
+}
+
+p {
+    margin: 20px;
+}
+
+.product {
+font-family: 'Playfair Display', serif;
+font-size: 30px;
+}
+
+.price {
+    font-size: 20px;
+}
+
+.id, .quantity {
+    color: gray;
+}
